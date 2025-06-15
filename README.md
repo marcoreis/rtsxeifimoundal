@@ -1,11 +1,8 @@
 
 ## 📸 Imagens do Projeto
 
-### 🎯 Escolha de Perfil do Investidor
-![Perfil do investidor](images/perfil_investidor.png)
-
 ### 📊 Simulação final
-*(inserir imagem do resultado total acumulado aqui)*
+![Perfil do investidor](images/perfil_investidor.png)
 
 ---
 
