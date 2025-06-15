@@ -1,6 +1,4 @@
 
----
-
 ## 📸 Imagens do Projeto
 
 ### 🎯 Escolha de Perfil do Investidor
